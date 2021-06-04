@@ -1,0 +1,29 @@
+[
+    {
+        "fname": "karthi",
+        "lname": "keyan",
+        "tel": "9500091635",
+        "address": "2/11 Poonga Flat, Shivaji Street,T.Nagar",
+        "city": "Chennai",
+        "state": "TN",
+        "Pin-Code": 600017
+    },
+    {
+        "fname": "surya",
+        "lname": "Ramesh",
+        "tel": "9894493632",
+        "address": "Bazar Street,K.K Nagar",
+        "city": "Chennai",
+        "state": "TN",
+        "Pin-Code": 600035
+    },
+    {
+        "fname": "SomaSundaram",
+        "lname": "KrishnaMoorthy",
+        "tel": "9445566217",
+        "address": "90A Sivan North Street,Therizhandur",
+        "city": "Mayiladuthurai",
+        "state": "TN",
+        "Pin-Code": 609808
+    }    
+]
